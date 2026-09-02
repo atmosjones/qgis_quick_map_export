@@ -1,0 +1,12 @@
+[general]
+name=Quick Canvas Export
+qgisMinimumVersion=3.0
+description=Exports the active canvas view with a scalebar to image or clipboard.
+version=1.0
+author=You
+email=your_email@example.com
+about=Generates a temporary layout matching the canvas extent, adds a scalebar, and outputs it.
+tracker=
+repository=
+category=Raster
+icon=icon.svg
