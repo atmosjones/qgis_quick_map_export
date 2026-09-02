@@ -1,4 +1,6 @@
-# Quick Canvas Export - QGIS Plugin 🗺️📸
+# Quick Canvas Export - QGIS Plugin
+
+<img src="icon.svg" width="24" height="24" alt="Quick map export">
 
 **Quick Canvas Export** is a lightweight, highly efficient QGIS 3 plugin that allows you to instantly draw a bounding box on your map canvas and export exactly that region as a high-resolution image or copy it directly to your clipboard. 
 
